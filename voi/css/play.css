@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;/*这里背景填充黑色，然后画布一开始画上白色，再描黑点，避免开头闪一下造成不连贯的感觉*/
+    font-family: 'Josefin Slab', 'Century Gothic', 'TeXGyreAdventor', "STHeiti", sans-serif;
+}
+
+canvas {
+    display: block;
+}

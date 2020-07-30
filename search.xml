@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+    <entry>
+        <title>Restart</title>
+        <link href="/Restart/"/>
+        <url>/Restart/</url>
+
+        <content type="html">
+            <![CDATA[<p>今天把博客文章全都清空了。</p><p>主要是之前的文章太乱，缺乏整理；加上近期学了很多东西之后，回头看过去的内容觉得有些浅薄，决心从头开始写。</p><p>今后会在这里写一些机器学习，以及数据处理的东西。</p><p>当然还有一些工程向的内容，总之我会更加深思熟虑地推送文章。</p><p>（是不是也考虑一下换主题呢……哈哈还是算了估计又要挑很久）</p>]]></content>
+        <tags>
+            <tag>Hello, world!</tag>
+        </tags>
+    </entry>
+</search>

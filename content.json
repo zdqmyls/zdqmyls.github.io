@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Riroaki",
+    "subtitle": "Riroaki's home",
+    "description": "我还要去完成应做之事。",
+    "author": "Riroaki",
+    "url": "http://zdqmyls.github.io",
+    "root": "/"
+  },
+  "pages": [
+    {
+      "title": "about",
+      "date": "2019-03-24T12:33:57.000Z",
+      "updated": "2019-04-09T12:06:40.449Z",
+      "comments": true,
+      "path": "about/index.html",
+      "permalink": "http://zdqmyls.github.io/about/index.html",
+      "excerpt": "",
+      "text": "这里是Riroaki的个人小站。 用来标记自己来时的路。"
+    },
+    {
+      "title": "categories",
+      "date": "2019-03-24T12:31:34.000Z",
+      "updated": "2019-04-09T12:04:49.546Z",
+      "comments": true,
+      "path": "categories/index.html",
+      "permalink": "http://zdqmyls.github.io/categories/index.html",
+      "excerpt": "",
+      "text": ""
+    },
+    {
+      "title": "tags",
+      "date": "2019-03-24T12:26:06.000Z",
+      "updated": "2019-04-09T12:05:24.696Z",
+      "comments": true,
+      "path": "tags/index.html",
+      "permalink": "http://zdqmyls.github.io/tags/index.html",
+      "excerpt": "",
+      "text": ""
+    }
+  ],
+  "posts": [
+    {
+      "title": "Restart",
+      "slug": "Restart",
+      "date": "2019-05-28T01:52:55.000Z",
+      "updated": "2019-06-02T14:33:47.956Z",
+      "comments": true,
+      "path": "Restart/",
+      "link": "",
+      "permalink": "http://zdqmyls.github.io/Restart/",
+      "excerpt": "",
+      "text": "今天把博客文章全都清空了。 主要是之前的文章太乱，缺乏整理；加上近期学了很多东西之后，回头看过去的内容觉得有些浅薄，决心从头开始写。 今后会在这里写一些机器学习，以及数据处理的东西。 当然还有一些工程向的内容，总之我会更加深思熟虑地推送文章。 （是不是也考虑一下换主题呢……哈哈还是算了估计又要挑很久）",
+      "categories": [],
+      "tags": [
+        {
+          "name": "Hello, world!",
+          "slug": "Hello-world",
+          "permalink": "http://zdqmyls.github.io/tags/Hello-world/"
+        }
+      ]
+    }
+  ]
+}
