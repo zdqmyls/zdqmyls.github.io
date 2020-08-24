@@ -1407,8 +1407,6 @@ table tr:nth-child(2n), thead {
 
 .profile .author {
     margin-top: -80px;
-
-    background: #000;
 }
 
 .profile .author .post-statis {

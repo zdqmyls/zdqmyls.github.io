@@ -246,6 +246,10 @@
                             <div class="avatar">
                                 <img src="/medias/vivian.jpg" alt="Martin" class="circle responsive-img avatar-img">
                             </div>
+                            <div class="title">Happy Birthday Vivian!</div>
+
+
+                            <div>愿你的美与岁月无关,愿你下雨有伞,天黑有光</div>
                             <div class="author">
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
 
@@ -267,7 +271,7 @@
                                     </div>-->
 
                                 </div>
-                                <div class="title">Happy Birthday Vivian!</div>
+                                <!--<div class="title">Happy Birthday Vivian!</div>-->
                                 <canvas id="canvas"></canvas>
                                 <!--<div class="career">(pre-) SDE / ML / NLP</div>-->
                                 <!--<div class="social-link hide-on-large-only" data-aos="zoom-in-left">
@@ -701,8 +705,8 @@
         // lighter creates bright highlight points as the fireworks and particles overlap each other
         ctx.globalCompositeOperation = 'lighter';
 
-        var text = "Happy Birthday Vivian !!";
-        ctx.font = "50px sans-serif";
+        var text = "Happy Birthday";
+        ctx.font = "20px sans-serif";
         var textData = ctx.measureText(text);
         ctx.fillStyle = "rgba("+parseInt(random(0,255))+","+parseInt(random(0,255))+","+parseInt(random(0,255))+",0.3)";
         ctx.fillText(text,cw /2-textData.width/2,ch/2);
